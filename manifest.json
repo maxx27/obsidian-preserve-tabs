@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-preserve-tabs",
+  "name": "Preserve Tabs",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Jump to existing tab if file is already opened.",
+  "author": "Maxim Suslov",
+  "isDesktopOnly": false
+}
